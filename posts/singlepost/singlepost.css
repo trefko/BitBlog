@@ -1,0 +1,37 @@
+body {
+  background-image: url("../../background-869580_1280.webp");
+}
+
+.container > div {
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  border: 5px solid white;
+  margin-top: 300px;
+}
+
+.TITLE {
+  margin-left: 650px;
+  font-size: 30px;
+}
+
+.desc {
+  margin-left: 680px;
+  font-size: 20px;
+}
+
+.txt {
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+.ath {
+  margin-left: 800px;
+  font-size: 25px;
+}
+
+.allPosts > a {
+  color: white;
+  font-size: 20px;
+}

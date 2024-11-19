@@ -1,0 +1,72 @@
+body {
+  background-image: url("../background-869580_1280.webp");
+}
+
+.backTo > a {
+  color: white;
+  font-size: 20px;
+  text-shadow: 0px 0px 10px cyan, 0px 0px 20px cyan, 0px 0px 30px cyan,
+    0px 0px 40px cyan;
+}
+
+.form1 {
+  width: 40%;
+  margin: 0 auto;
+  margin-top: 200px;
+  border-radius: 15px;
+}
+
+.form1,
+.btn1 {
+  width: 90%;
+
+  border-radius: 15px;
+}
+
+.form1 > label {
+  color: white;
+  font-size: 25px;
+  text-shadow: 0px 0px 10px cyan, 0px 0px 20px cyan, 0px 0px 30px cyan,
+    0px 0px 40px cyan;
+}
+
+.form2 {
+  width: 40%;
+  margin: 0 auto;
+  margin-top: 200px;
+  border-radius: 15px;
+}
+
+.form2,
+.btn2 {
+  width: 90%;
+
+  border-radius: 15px;
+}
+
+.form2 > label {
+  color: white;
+  font-size: 25px;
+  text-shadow: 0px 0px 10px cyan, 0px 0px 20px cyan, 0px 0px 30px cyan,
+    0px 0px 40px cyan;
+}
+.btn1 > div {
+  display: flex;
+  margin-bottom: 15px;
+  justify-content: space-between;
+  padding-left: 100px;
+  padding-right: 100px;
+  border: 1px solid black;
+  border-radius: 15px;
+  margin-top: 15px;
+}
+.btn2 > div {
+  display: flex;
+  margin-bottom: 15px;
+  justify-content: space-between;
+  padding-left: 100px;
+  padding-right: 100px;
+  border: 1px solid black;
+  border-radius: 15px;
+  margin-top: 15px;
+}
